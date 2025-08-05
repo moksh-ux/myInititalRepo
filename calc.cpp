@@ -7,6 +7,7 @@ int main() {
     std::cout << "Simple Calculator" << std::endl;
     std::cout << "Enter first number: ";
     std::cin >> num1;
+    // This is a simple calculator program
 
 
     //fwefewfwf
